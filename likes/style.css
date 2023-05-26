@@ -1,0 +1,85 @@
+*{
+    margin:0px;
+    padding:0px;
+    display: inline-block;
+}
+.container{
+    height: 900px;
+    width: 900px;
+    margin-left: 300px;
+}
+.nav_bar{
+    font-size:20px;
+    height:30px;
+    width:710px;
+    background-color:black;
+    color:white;
+    font-family: cursive;
+    margin: 10px;
+    padding:10px;
+    display:flex;
+    justify-content:flex-start;
+}
+.your_feed{
+    margin:5px;
+    font-family: cursive;
+    display:flex;
+    justify-content: center;
+}
+.container2{
+    display: inline-block;
+}
+.user1{
+    height: 100px;
+    width: 400px;
+    padding:15px;
+    margin:10px;
+    border:5px solid black;
+    font-family: cursive;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+}
+.user2{
+    height: 100px;
+    width: 400px;
+    padding:15px;
+    margin:10px;
+    border:5px solid black;
+    font-family: cursive;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+}
+.user3{
+    height: 100px;
+    width: 400px;
+    padding:15px;
+    margin:10px;
+    border:5px solid black;
+    font-family: cursive;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+}
+.button{
+    height:25px;
+    width:47px;
+    background-color: rgb(207, 171, 11);
+    box-shadow: 2px 2px 1px;
+}
+.avatar{
+    height: 200px;
+    width: 110px;
+    padding:15px;
+    margin:10px;
+    border:5px solid black;
+    font-family: cursive;
+    vertical-align:top;
+}
+.user_circle{
+    height:50px;
+    width:50px;
+    display:flex;
+    padding-left: 25px;
+}
